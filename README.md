@@ -1,5 +1,3 @@
-# chajian-ruler-
-这是一个关于滑动标尺的插件
 
 //调用此插件须输入两个参数，第一个为要注入标签的id名，第二个为他的参数对象，详情如下
 	var pressureRuler=new Ruler("pressure-contain",{
